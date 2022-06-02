@@ -38,7 +38,7 @@
     </dependencies>
 
     <build>
-        <finalName>jee</finalName>
+        <finalName>JavaProducts</finalName>
 
         <plugins>
             <plugin>
